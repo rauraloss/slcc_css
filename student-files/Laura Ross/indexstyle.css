@@ -1,0 +1,41 @@
+h1 {
+    color: #036ca5;
+    style: bold;
+}
+h3 {
+    color: #036ca5;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color:#fc6a78;
+    color: #7a15d8;
+}
+a {
+    color: hotpink;
+}
+a:hover {
+    background-color: #fff;
+}
+.card {
+    width: 400px;
+    margin: 10px auto;
+
+    padding: 50px;
+    background-color: #f6f4ff;
+    box-shadow: 10px 5px 5px #af4854;
+    text-align: center;
+}
+img {
+    padding: 2px;
+    border: 2px solid #370c7c;
+    background-color: #fc6a78;
+}
+.social {
+    font-size: 25pt;
+    letter-spacing: 15px;
+}
+li {
+
+    float: left;
+
+}
