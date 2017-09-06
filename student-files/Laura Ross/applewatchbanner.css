@@ -1,0 +1,32 @@
+.one {
+    position: relative;
+    width: 387px;
+
+
+}
+
+.two {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 150px;
+
+}
+
+.three {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    background-color: #3d3d3d;
+    width: 387px;
+    height: 80px;
+    text-align: center;
+
+}
+
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+
+}

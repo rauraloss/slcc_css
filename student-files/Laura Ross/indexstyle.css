@@ -14,22 +14,40 @@ a {
     color: hotpink;
 }
 a:hover {
-    background-color: #fff;
+    color: #7a15d8;
 }
 .card {
     width: 400px;
     margin: 10px auto;
-
     padding: 50px;
     background-color: #f6f4ff;
     box-shadow: 10px 5px 5px #af4854;
     text-align: center;
+    border-radius: 45px;
 }
+.card2 {
+     width: 350px;
+     margin: 10px auto;
+    border: 5px solid #370c7c;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    padding-left: 0px;
+    padding-right: 45px;
+     background-color: #f6f4ff;
+     box-shadow: 10px 5px 5px #af4854;
+     text-align: center;
+ }
+
 img {
     padding: 2px;
     border: 2px solid #370c7c;
     background-color: #fc6a78;
 }
+.img-circle{
+    border-radius: 50%;
+}
+
+
 .social {
     font-size: 25pt;
     letter-spacing: 15px;
